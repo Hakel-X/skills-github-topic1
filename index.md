@@ -6,6 +6,7 @@ Invest+ Academy is an interactive educational platform designed to help both Bra
 
 [Visit Invest+ Academy](https://your-deployment-link)
 
+
 ## Contents
 
 - [User Experience (UX)](#user-experience-ux)
